@@ -1,0 +1,5 @@
+{
+  "name": "School Library Manager",
+  "description": "A multi-campus library management system with book tracking, staff management, and grade-based reporting.",
+  "requestFramePermissions": []
+}
